@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/quiz-app/static/js/main.f18524ba.chunk.js",
-    "main.js.map": "/quiz-app/static/js/main.f18524ba.chunk.js.map",
+    "main.js": "/quiz-app/static/js/main.f2587e73.chunk.js",
+    "main.js.map": "/quiz-app/static/js/main.f2587e73.chunk.js.map",
     "runtime-main.js": "/quiz-app/static/js/runtime-main.1e859166.js",
     "runtime-main.js.map": "/quiz-app/static/js/runtime-main.1e859166.js.map",
     "static/js/2.bc3f9067.chunk.js": "/quiz-app/static/js/2.bc3f9067.chunk.js",
     "static/js/2.bc3f9067.chunk.js.map": "/quiz-app/static/js/2.bc3f9067.chunk.js.map",
     "index.html": "/quiz-app/index.html",
-    "precache-manifest.fccbb95c9370082982f0627e14ea14e7.js": "/quiz-app/precache-manifest.fccbb95c9370082982f0627e14ea14e7.js",
+    "precache-manifest.aba730731485c93afa15074733f8b6fb.js": "/quiz-app/precache-manifest.aba730731485c93afa15074733f8b6fb.js",
     "service-worker.js": "/quiz-app/service-worker.js",
     "static/js/2.bc3f9067.chunk.js.LICENSE.txt": "/quiz-app/static/js/2.bc3f9067.chunk.js.LICENSE.txt",
     "static/media/nattu-adnan-unsplash.jpg": "/quiz-app/static/media/nattu-adnan-unsplash.c11f97a3.jpg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.1e859166.js",
     "static/js/2.bc3f9067.chunk.js",
-    "static/js/main.f18524ba.chunk.js"
+    "static/js/main.f2587e73.chunk.js"
   ]
 }
